@@ -7,6 +7,6 @@ Spawns a new mpv.app instance for each run (file open). Multiple selections are 
 
 ### Installation:
 
-* 1. Download and install OpenWithMPV.app as an application. 
+* 1. [Download](https://github.com/basakil/OpenWithMPV.app/releases) and install OpenWithMPV.app as an application. 
 * 2. Run the app (OpenWithMPV.app) once (to get it in the *'get info'* and _'open with'_ menus).
 * 3. [Associate](https://www.google.com.tr/search?q=osx+file+type+associations) any file type you wanted to be opened with the app.
