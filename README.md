@@ -2,6 +2,8 @@
 ## OSX wrapper app bundle for [mpv](https://mpv.io/): 
 Spawns a new mpv.app instance for each run (file open). Multiple selections are opened as a playlist.
 
+I was used to one-window for one-file-open approach, which is default in Windows and Ubuntu, so I tried to do the same in Mac systems using wrapper apps. Similar steps can be applied to other kinds of apps, like VLC and others...
+
 ### Requirements:
 * [mpv](https://mpv.io/).app bundle should be installed and run at least once beforehand.
 
